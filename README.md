@@ -15,7 +15,8 @@ In the main text:
 * The notebook to reproduce Table 2 is [power_analysis_wmt.ipynb]() (the same analysis for SummEval is in the appendix).
 
 In the appendix:
-* The notebook to reproduce Tables 3 and 4 are in [variance_analysis_wmt.ipynb]() and [variance_analysis_summeval.ipynb](), respectively.
+* The notebook to reproduce Table 3 is in [variance_analysis_wmt.ipynb]().
+* The notebook to reproduce Table 4 is in [variance_analysis_summeval.ipynb]().
 * The notebook to reproduce Figure 5 is in [human_comparison_summeval.ipynb]().
 * The notebook to reproduce Table 5 is in [power_analysis_summeval.ipynb]().
 
