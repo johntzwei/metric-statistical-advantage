@@ -1,22 +1,5 @@
 # metric-statistical-advantage
-Data and analyses for our ACL 2021 work "The statistical advantage of automatic NLG metrics at the system level". If you use our WMT metrics shared task dataframe or analyses, please cite us with
-```
-@inproceedings{mathur-etal-2020-results,
-    title = "Results of the {WMT}20 Metrics Shared Task",
-    author = "Mathur, Nitika  and
-      Wei, Johnny  and
-      Freitag, Markus  and
-      Ma, Qingsong  and
-      Bojar, Ond{\v{r}}ej",
-    booktitle = "Proceedings of the Fifth Conference on Machine Translation",
-    month = nov,
-    year = "2020",
-    address = "Online",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/2020.wmt-1.77",
-    pages = "688--725"
-}
-```
+Data and analyses for our ACL 2021 work "The statistical advantage of automatic NLG metrics at the system level".
 
 # Data
 * [WMT16-19 metrics shared task, pickled dataframe](https://drive.google.com/file/d/1RZg1GbRYvyXHCv4R3lzoEiVCgPC2e9TT/view?usp=sharing)
