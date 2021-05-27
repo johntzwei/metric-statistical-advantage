@@ -1,5 +1,5 @@
 # metric-statistical-advantage
-Data and analyses for our ACL 2021 work "The statistical advantage of automatic NLG metrics at the system level".
+Data and analyses for our ACL 2021 work ["The statistical advantage of automatic NLG metrics at the system level"](https://arxiv.org/abs/2105.12437).
 
 # Data
 * [WMT16-19 metrics shared task, pickled dataframe](https://drive.google.com/file/d/1RZg1GbRYvyXHCv4R3lzoEiVCgPC2e9TT/view?usp=sharing)
